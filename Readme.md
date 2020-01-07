@@ -1,0 +1,1 @@
+This repository stores the R and Python code that I used to predict the performance of student at the UK's Open University with data from the Open University Learning Analytics Dataset (OULAD) retrieved from: https://analyse.kmi.open.ac.uk/open_dataset.
